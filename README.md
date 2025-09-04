@@ -1,9 +1,9 @@
 # Uber-Power-BI-
 
-There are two types of files which i have provided in that one contai the data which you can use to create your own analysis.
+There are two types of files which i have provided in that one contain the data which you can use to create your own analysis.
 Another is main project which i have created which you can use for refrence.
 
-⭐ Following are key points of the projet
+⭐ Following are key points of the project
 
 General Overview
 
