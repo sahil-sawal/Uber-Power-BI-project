@@ -1,14 +1,54 @@
-# Uber-Power-BI-
+## Uber Data Analytics Dashboard – Power BI
 
-There are two types of files which i have provided in that one contain the data which you can use to create your own analysis.
-Another is main project which i have created which you can use for refrence.
+This project presents an interactive Power BI dashboard designed to analyze Uber trip data and uncover meaningful insights into ride patterns, customer demand, and operational performance.
 
-⭐ Following are key points of the project
+📊 Key Features
 
-General Overview
+- Ride Trends Analysis – Visualizes daily, weekly, and monthly ride demand to identify peak usage times.
 
-Interactive Dashboard created in Power BI to monitor and analyze Uber’s performance data.
+- Revenue Insights – Tracks earnings distribution across time, locations, and ride categories.
 
-Provides real-time insights into rides, drivers, revenue, and customer activity.
+- Geographical Patterns – Maps pickup and drop-off hotspots to highlight high-demand areas.
 
-Designed with filters for time (day/week/month), city/region, driver type, ride category.
+- Customer Behavior – Breaks down trips by ride type, distance, and duration for deeper understanding.
+
+- Performance KPIs – Key metrics such as total trips, average fare, and utilization trends.
+
+🎯 Objectives
+
+- Provide a data-driven overview of Uber rides and revenue.
+
+- Identify demand fluctuations to optimize resource allocation.
+
+- Offer location intelligence for better decision-making.
+
+- Support stakeholders with clear, interactive visual storytelling.
+
+🛠️ Tools & Technologies
+
+- Power BI – For dashboard creation and interactive visualizations.
+
+- Uber Dataset – Trip records including time, location, distance, and fare details.
+
+- Data Modeling – Cleaned and structured raw data for analysis.
+
+📌 Insights Example
+
+- Evening and weekend trips show higher demand.
+
+- Downtown areas are the most frequent pickup and drop-off points.
+
+- Long-distance trips contribute significantly to revenue despite being fewer in number.
+
+🚀 How to Use
+
+- Clone this repository.
+
+- Open the .pbix file in Power BI Desktop.
+
+
+## AUthor :- Sahil Sawal
+
+
+- Explore interactive reports and visualizations.
+
