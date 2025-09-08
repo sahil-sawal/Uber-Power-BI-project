@@ -1,8 +1,10 @@
 ## Uber Data Analytics Dashboard – Power BI
 
-This project presents an interactive Power BI dashboard designed to analyze Uber trip data and uncover meaningful insights into ride patterns, customer demand, and operational performance.
+This project presents an interactive Power BI dashboard designed to analyze Uber trip data and 
+uncover meaningful insights into ride patterns, customer demand, and operational performance.
 
-📊 Key Features
+
+### 📊 Key Features
 
 - Ride Trends Analysis – Visualizes daily, weekly, and monthly ride demand to identify peak usage times.
 
@@ -14,7 +16,8 @@ This project presents an interactive Power BI dashboard designed to analyze Uber
 
 - Performance KPIs – Key metrics such as total trips, average fare, and utilization trends.
 
-🎯 Objectives
+
+### 🎯 Objectives
 
 - Provide a data-driven overview of Uber rides and revenue.
 
@@ -24,7 +27,9 @@ This project presents an interactive Power BI dashboard designed to analyze Uber
 
 - Support stakeholders with clear, interactive visual storytelling.
 
-🛠️ Tools & Technologies
+
+
+### 🛠️ Tools & Technologies
 
 - Power BI – For dashboard creation and interactive visualizations.
 
@@ -32,7 +37,9 @@ This project presents an interactive Power BI dashboard designed to analyze Uber
 
 - Data Modeling – Cleaned and structured raw data for analysis.
 
-📌 Insights Example
+
+
+### 📌 Insights Example
 
 - Evening and weekend trips show higher demand.
 
@@ -40,15 +47,18 @@ This project presents an interactive Power BI dashboard designed to analyze Uber
 
 - Long-distance trips contribute significantly to revenue despite being fewer in number.
 
-🚀 How to Use
+
+
+### 🚀 How to Use
 
 - Clone this repository.
 
 - Open the .pbix file in Power BI Desktop.
 
+- Explore interactive reports and visualizations.
+
+
 
 ## AUthor :- Sahil Sawal
 
-
-- Explore interactive reports and visualizations.
 
