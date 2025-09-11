@@ -1,5 +1,3 @@
-## Uber Data Analytics Dashboard – Power BI
-
 # 🚖 Uber Trip Analysis Dashboard
 ## 📌 Project Title / Headline
 
@@ -123,11 +121,11 @@ The dashboard includes a detailed view of each trip, allowing filtering and anal
 - This project demonstrates the power of business intelligence (BI) tools in turning raw transportation data into meaningful insights that can drive efficiency, increase revenue, and improve customer experience.
 
 ## 🖼️ Screenshots / Demos
-![Overview_analysis]()
+![Overview_analysis](https://github.com/sahil-sawal/Uber-Power-BI-project/blob/main/Snapshot%20of%20Overview_Analysis.png)
 
-![Time_anlysis]()
+![Time_anlysis](https://github.com/sahil-sawal/Uber-Power-BI-project/blob/main/Snapshot%20of%20Time_Analysis.png)
 
-![Details]()
+![Details](https://github.com/sahil-sawal/Uber-Power-BI-project/blob/main/Snapshot%20of%20Details.png)
 
 
 ## Author :- Sahil Sawal
