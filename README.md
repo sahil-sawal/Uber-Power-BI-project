@@ -42,7 +42,7 @@ The analysis is based on Uber trip records for June 2024, containing detailed in
 - The raw data was processed, cleaned, and transformed into a structured dataset for visualization in Power BI.
 
 ## ✨ Features / Highlights
-## 📊 High-Level KPIs
+### 📊 High-Level KPIs
 
 - 103.7K Total Bookings within the analysis period.
 
