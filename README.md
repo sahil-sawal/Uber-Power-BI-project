@@ -122,6 +122,13 @@ The dashboard includes a detailed view of each trip, allowing filtering and anal
 
 - This project demonstrates the power of business intelligence (BI) tools in turning raw transportation data into meaningful insights that can drive efficiency, increase revenue, and improve customer experience.
 
+## 🖼️ Screenshots / Demos
+![Overview_analysis]()
+
+![Time_anlysis]()
+
+![Details]()
+
 
 ## Author :- Sahil Sawal
 
