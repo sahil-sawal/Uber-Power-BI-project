@@ -5,7 +5,7 @@
 
 Uber Trip Analysis – Interactive Power BI Dashboard for Ride Data Insights
 
-# 📝 Short Description / Purpose
+## 📝 Short Description / Purpose
 
 This project provides a comprehensive data analysis of Uber rides through an interactive Power BI dashboard. The primary purpose is to explore booking patterns, customer preferences, revenue generation, and operational performance. By analyzing trip-level details such as payment methods, vehicle types, trip distances, and timings, the dashboard enables data-driven decision-making for ride-hailing operations.
 
@@ -52,19 +52,19 @@ The analysis is based on Uber trip records for June 2024, containing detailed in
 
 - 16 minutes Average Trip Time across all bookings.
 
-## 💳 Payment Insights
+### 💳 Payment Insights
 
 - Majority of trips are paid via Uber Pay (67%), followed by Cash (32%).
 
 - Minimal adoption of Amazon Pay and Google Pay.
 
 
-## 🌙 Day vs Night Analysis
+### 🌙 Day vs Night Analysis
 
 - Daytime trips (62.55%) dominate over Nighttime trips (37.45%), showing higher ride demand during working hours and evening commutes.
 
 
-## 🚘 Vehicle Type Analysis
+### 🚘 Vehicle Type Analysis
 
 - UberX leads with 38K+ trips, generating $5.83M revenue and covering the longest distance.
 
@@ -73,7 +73,7 @@ The analysis is based on Uber trip records for June 2024, containing detailed in
 - Uber Green provides an eco-friendly option, with over 14K bookings.
 
 
-## 📍 Location Analysis
+### 📍 Location Analysis
 
 - Most frequent pickup: Penn Station / Madison Sq West.
 
@@ -82,7 +82,7 @@ The analysis is based on Uber trip records for June 2024, containing detailed in
 - Longest trip: 144.1 miles (Lower East Side → Crown Heights North).
 
 
-## ⏱ Time Analysis
+### ⏱ Time Analysis
 
 - Peak hours: 12 PM – 6 PM, when demand is highest.
 
@@ -95,7 +95,7 @@ The analysis is based on Uber trip records for June 2024, containing detailed in
 - Saturdays (18.7K bookings) and Sundays (19.2K bookings) record the highest demand.
 
 
-## 🔍 Detailed Trip Logs
+### 🔍 Detailed Trip Logs
 
 The dashboard includes a detailed view of each trip, allowing filtering and analysis by:
 
@@ -110,7 +110,7 @@ The dashboard includes a detailed view of each trip, allowing filtering and anal
 - Pickup location.
 
 
-## 🚀 Why This Dashboard Matters
+### 🚀 Why This Dashboard Matters
 
 - Provides clear visibility of revenue streams and customer behavior.
 
