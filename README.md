@@ -1,5 +1,4 @@
 # 🚖 Uber Trip Analysis Dashboard
-## 📌 Project Title / Headline
 
 Uber Trip Analysis – Interactive Power BI Dashboard for Ride Data Insights
 
@@ -119,6 +118,20 @@ The dashboard includes a detailed view of each trip, allowing filtering and anal
 - Offers granular insights from daily patterns to individual ride details.
 
 - This project demonstrates the power of business intelligence (BI) tools in turning raw transportation data into meaningful insights that can drive efficiency, increase revenue, and improve customer experience.
+
+### 👉🏻 Suggestions:
+
+- Push digital payments through incentives.
+
+- Focus on UberX fleet availability while promoting upgrades to premium vehicles.
+
+- Optimize driver placement around Penn Station & Upper East Side.
+
+- Use dynamic driver incentives for weekends and evening peaks.
+
+- Launch subscription/loyalty programs for short-distance frequent commuters.
+
+
 
 ## 🖼️ Screenshots / Demos
 ![Overview_analysis](https://github.com/sahil-sawal/Uber-Power-BI-project/blob/main/Snapshot%20of%20Overview_Analysis.png)
